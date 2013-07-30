@@ -1,0 +1,59 @@
+body{
+	padding-top: 0 !important;
+	position: relative;	
+}
+
+.home{
+	position: relative;;
+}
+
+.home-bg{
+	padding: 0 3em;
+	position: absolute;
+	top: 25%;
+}
+
+
+.blog{
+	top: 25em;
+	padding-top: 55px;	
+}
+
+.firstname{
+	font-family: Cinzel;
+}
+
+.description p {
+	font-size: 22px;
+	display: initial;
+	background-color: #000;
+	color: #FFF;
+	font-family: "open sans";
+	line-height: 2.3em;
+	width: 100%;
+	padding: -0.5em;
+}
+
+
+.description {
+	width: 43%
+}
+
+.adressline{
+	font-size: 25px;
+	font-family: finger paint;
+}
+
+
+.bloglink a{
+	font-family: monospace;	
+	font-size: 22px;
+	color: #848484;
+	text-decoration: none;
+}
+
+.blog1{
+	width: 29%;
+	text-align: center;
+	margin-top: 10em;
+}
